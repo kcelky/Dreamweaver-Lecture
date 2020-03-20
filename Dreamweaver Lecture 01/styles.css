@@ -1,0 +1,21 @@
+@charset "UTF-8";
+/* CSS Document */
+
+.float-frame {
+	background: #eee;
+	border: 1px solid #ddd;
+	padding: 10px;
+	overflow: hidden;
+}
+
+.float-unit {
+	width: fit-content;
+	background: #333;
+	color: #fff;
+	font-size: 18px;
+	font-weight: bold;
+	text-align: center;
+	margin-right: 10px;
+	padding: 15px 20px;
+	float: left;
+}
